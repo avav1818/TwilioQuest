@@ -1,6 +1,6 @@
 # Mysteries of the Pythonic Temple
 
-###### Source: https://www.twilio.com/quest/learn/python
+[Mysteries of the pythonic temple source](https://www.twilio.com/quest/learn/python)
 
 In this pod you'll learn the following:
 1. Configure your computer for development with Python 3
